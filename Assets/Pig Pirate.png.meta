@@ -1,0 +1,1420 @@
+fileFormatVersion: 2
+guid: 6cd016252715d364e821b4a75393b315
+timeCreated: 1750662146
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pig Pirate_0
+    21300002: Pig Pirate_1
+    21300004: Pig Pirate_2
+    21300006: Pig Pirate_3
+    21300008: Pig Pirate_4
+    21300010: Pig Pirate_5
+    21300012: Pig Pirate_6
+    21300014: Pig Pirate_7
+    21300016: Pig Pirate_8
+    21300018: Pig Pirate_9
+    21300020: Pig Pirate_10
+    21300022: Pig Pirate_11
+    21300024: Pig Pirate_12
+    21300026: Pig Pirate_13
+    21300028: Pig Pirate_14
+    21300030: Pig Pirate_15
+    21300032: Pig Pirate_16
+    21300034: Pig Pirate_17
+    21300036: Pig Pirate_18
+    21300038: Pig Pirate_19
+    21300040: Pig Pirate_20
+    21300042: Pig Pirate_21
+    21300044: Pig Pirate_22
+    21300046: Pig Pirate_23
+    21300048: Pig Pirate_24
+    21300050: Pig Pirate_25
+    21300052: Pig Pirate_26
+    21300054: Pig Pirate_27
+    21300056: Pig Pirate_28
+    21300058: Pig Pirate_29
+    21300060: Pig Pirate_30
+    21300062: Pig Pirate_31
+    21300064: Pig Pirate_32
+    21300066: Pig Pirate_33
+    21300068: Pig Pirate_34
+    21300070: Pig Pirate_35
+    21300072: Pig Pirate_36
+    21300074: Pig Pirate_37
+    21300076: Pig Pirate_38
+    21300078: Pig Pirate_39
+    21300080: Pig Pirate_40
+    21300082: Pig Pirate_41
+    21300084: Pig Pirate_42
+    21300086: Pig Pirate_43
+    21300088: Pig Pirate_44
+    21300090: Pig Pirate_45
+    21300092: Pig Pirate_46
+    21300094: Pig Pirate_47
+    21300096: Pig Pirate_48
+    21300098: Pig Pirate_49
+    21300100: Pig Pirate_50
+    21300102: Pig Pirate_51
+    21300104: Pig Pirate_52
+    21300106: Pig Pirate_53
+    21300108: Pig Pirate_54
+    21300110: Pig Pirate_55
+    21300112: Pig Pirate_56
+    21300114: Pig Pirate_57
+    21300116: Pig Pirate_58
+    21300118: Pig Pirate_59
+    21300120: Pig Pirate_60
+    21300122: Pig Pirate_61
+    21300124: Pig Pirate_62
+    21300126: Pig Pirate_63
+    21300128: Pig Pirate_64
+    21300130: Pig Pirate_65
+    21300132: Pig Pirate_66
+    21300134: Pig Pirate_67
+    21300136: Pig Pirate_68
+    21300138: Pig Pirate_69
+    21300140: Pig Pirate_70
+    21300142: Pig Pirate_71
+    21300144: Pig Pirate_72
+    21300146: Pig Pirate_73
+    21300148: Pig Pirate_74
+    21300150: Pig Pirate_75
+    21300152: Pig Pirate_76
+    21300154: Pig Pirate_77
+    21300156: Pig Pirate_78
+    21300158: Pig Pirate_79
+    21300160: Pig Pirate_80
+    21300162: Pig Pirate_81
+    21300164: Pig Pirate_82
+    21300166: Pig Pirate_83
+    21300168: Pig Pirate_84
+    21300170: Pig Pirate_85
+    21300172: Pig Pirate_86
+    21300174: Pig Pirate_87
+    21300176: Pig Pirate_88
+    21300178: Pig Pirate_89
+    21300180: Pig Pirate_90
+    21300182: Pig Pirate_91
+    21300184: Pig Pirate_92
+    21300186: Pig Pirate_93
+    21300188: Pig Pirate_94
+    21300190: Pig Pirate_95
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pig Pirate_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 192
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 193
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 193
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 193
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_4
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 226
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_5
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 226
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_6
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 226
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 213
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_8
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 226
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_9
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 226
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_10
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 226
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_11
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 226
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_12
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 226
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_13
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 213
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_14
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 213
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_15
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 213
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_16
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 213
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_17
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 210
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_18
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 213
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 213
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_20
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 213
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_21
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 213
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_22
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 213
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_23
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 213
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_24
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 213
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 213
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_26
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 213
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_27
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 213
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_28
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 213
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_29
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 213
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_30
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 213
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_31
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 213
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_32
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 213
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_33
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 213
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_34
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 213
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_35
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 213
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_36
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 199
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_37
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 196
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_38
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 196
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_39
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 199
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_40
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 199
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_41
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 199
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_42
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 196
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_43
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 199
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_44
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 199
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_45
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 145
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_46
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 147
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_47
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 185
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_48
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 182
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_49
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 185
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_50
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 185
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_51
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 185
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_52
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 185
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_53
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 185
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_54
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 185
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_55
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 185
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_56
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 185
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_57
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 185
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_58
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 182
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_59
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 185
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_60
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 185
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_61
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 185
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_62
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 185
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_63
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 139
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_64
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 141
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_65
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 143
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_66
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 143
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_67
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 171
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_68
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 171
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_69
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 171
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_70
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 171
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_71
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 171
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_72
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 171
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_73
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 171
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_74
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 171
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_75
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 171
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_76
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 171
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_77
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 171
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_78
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 171
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_79
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 74
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_80
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 76
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_81
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 75
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_82
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 75
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_83
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 76
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_84
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 76
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_85
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 77
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_86
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 78
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_87
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 15
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_88
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 15
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_89
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 12
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_90
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 13
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_91
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 16
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_92
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 14
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_93
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 19
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_94
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 26
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig Pirate_95
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 25
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

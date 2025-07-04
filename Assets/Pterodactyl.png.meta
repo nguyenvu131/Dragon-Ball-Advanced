@@ -1,0 +1,790 @@
+fileFormatVersion: 2
+guid: dfdfad7438e569c44bcfc1cc9404d209
+timeCreated: 1750662344
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pterodactyl_0
+    21300002: Pterodactyl_1
+    21300004: Pterodactyl_2
+    21300006: Pterodactyl_3
+    21300008: Pterodactyl_4
+    21300010: Pterodactyl_5
+    21300012: Pterodactyl_6
+    21300014: Pterodactyl_7
+    21300016: Pterodactyl_8
+    21300018: Pterodactyl_9
+    21300020: Pterodactyl_10
+    21300022: Pterodactyl_11
+    21300024: Pterodactyl_12
+    21300026: Pterodactyl_13
+    21300028: Pterodactyl_14
+    21300030: Pterodactyl_15
+    21300032: Pterodactyl_16
+    21300034: Pterodactyl_17
+    21300036: Pterodactyl_18
+    21300038: Pterodactyl_19
+    21300040: Pterodactyl_20
+    21300042: Pterodactyl_21
+    21300044: Pterodactyl_22
+    21300046: Pterodactyl_23
+    21300048: Pterodactyl_24
+    21300050: Pterodactyl_25
+    21300052: Pterodactyl_26
+    21300054: Pterodactyl_27
+    21300056: Pterodactyl_28
+    21300058: Pterodactyl_29
+    21300060: Pterodactyl_30
+    21300062: Pterodactyl_31
+    21300064: Pterodactyl_32
+    21300066: Pterodactyl_33
+    21300068: Pterodactyl_34
+    21300070: Pterodactyl_35
+    21300072: Pterodactyl_36
+    21300074: Pterodactyl_37
+    21300076: Pterodactyl_38
+    21300078: Pterodactyl_39
+    21300080: Pterodactyl_40
+    21300082: Pterodactyl_41
+    21300084: Pterodactyl_42
+    21300086: Pterodactyl_43
+    21300088: Pterodactyl_44
+    21300090: Pterodactyl_45
+    21300092: Pterodactyl_46
+    21300094: Pterodactyl_47
+    21300096: Pterodactyl_48
+    21300098: Pterodactyl_49
+    21300100: Pterodactyl_50
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pterodactyl_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 225
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 224
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 226
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 224
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_5
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 223
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 175
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 170
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 172
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 192
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 192
+        width: 45
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_11
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 192
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_12
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 192
+        width: 52
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_13
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 192
+        width: 33
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_14
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 192
+        width: 46
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_15
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 184
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 184
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 184
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_18
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 184
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_19
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 176
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_20
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 184
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_21
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 184
+        width: 76
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_23
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 176
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_24
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 176
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 123
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_26
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 123
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_27
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 122
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 123
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_29
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 119
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_30
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 122
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_31
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 122
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_32
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 63
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 63
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_34
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 78
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_35
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 77
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_36
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 77
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_37
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 78
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_38
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 12
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_39
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 13
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_40
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 16
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_41
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 34
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_42
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 46
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_43
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 51
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_44
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 43
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_45
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 50
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_46
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 19
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_47
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 15
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_48
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 16
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_49
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 12
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pterodactyl_50
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 11
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

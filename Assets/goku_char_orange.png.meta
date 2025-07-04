@@ -1,0 +1,3016 @@
+fileFormatVersion: 2
+guid: f938360e3bd085a4c88b8e95c3c44026
+timeCreated: 1750661249
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: goku_char_orange_0
+    21300002: goku_char_orange_1
+    21300004: goku_char_orange_2
+    21300006: goku_char_orange_3
+    21300008: goku_char_orange_4
+    21300010: goku_char_orange_5
+    21300012: goku_char_orange_6
+    21300014: goku_char_orange_7
+    21300016: goku_char_orange_8
+    21300018: goku_char_orange_9
+    21300020: goku_char_orange_10
+    21300022: goku_char_orange_11
+    21300024: goku_char_orange_12
+    21300026: goku_char_orange_13
+    21300028: goku_char_orange_14
+    21300030: goku_char_orange_15
+    21300032: goku_char_orange_16
+    21300034: goku_char_orange_17
+    21300036: goku_char_orange_18
+    21300038: goku_char_orange_19
+    21300040: goku_char_orange_20
+    21300042: goku_char_orange_21
+    21300044: goku_char_orange_22
+    21300046: goku_char_orange_23
+    21300048: goku_char_orange_24
+    21300050: goku_char_orange_25
+    21300052: goku_char_orange_26
+    21300054: goku_char_orange_27
+    21300056: goku_char_orange_28
+    21300058: goku_char_orange_29
+    21300060: goku_char_orange_30
+    21300062: goku_char_orange_31
+    21300064: goku_char_orange_32
+    21300066: goku_char_orange_33
+    21300068: goku_char_orange_34
+    21300070: goku_char_orange_35
+    21300072: goku_char_orange_36
+    21300074: goku_char_orange_37
+    21300076: goku_char_orange_38
+    21300078: goku_char_orange_39
+    21300080: goku_char_orange_40
+    21300082: goku_char_orange_41
+    21300084: goku_char_orange_42
+    21300086: goku_char_orange_43
+    21300088: goku_char_orange_44
+    21300090: goku_char_orange_45
+    21300092: goku_char_orange_46
+    21300094: goku_char_orange_47
+    21300096: goku_char_orange_48
+    21300098: goku_char_orange_49
+    21300100: goku_char_orange_50
+    21300102: goku_char_orange_51
+    21300104: goku_char_orange_52
+    21300106: goku_char_orange_53
+    21300108: goku_char_orange_54
+    21300110: goku_char_orange_55
+    21300112: goku_char_orange_56
+    21300114: goku_char_orange_57
+    21300116: goku_char_orange_58
+    21300118: goku_char_orange_59
+    21300120: goku_char_orange_60
+    21300122: goku_char_orange_61
+    21300124: goku_char_orange_62
+    21300126: goku_char_orange_63
+    21300128: goku_char_orange_64
+    21300130: goku_char_orange_65
+    21300132: goku_char_orange_66
+    21300134: goku_char_orange_67
+    21300136: goku_char_orange_68
+    21300138: goku_char_orange_69
+    21300140: goku_char_orange_70
+    21300142: goku_char_orange_71
+    21300144: goku_char_orange_72
+    21300146: goku_char_orange_73
+    21300148: goku_char_orange_74
+    21300150: goku_char_orange_75
+    21300152: goku_char_orange_76
+    21300154: goku_char_orange_77
+    21300156: goku_char_orange_78
+    21300158: goku_char_orange_79
+    21300160: goku_char_orange_80
+    21300162: goku_char_orange_81
+    21300164: goku_char_orange_82
+    21300166: goku_char_orange_83
+    21300168: goku_char_orange_84
+    21300170: goku_char_orange_85
+    21300172: goku_char_orange_86
+    21300174: goku_char_orange_87
+    21300176: goku_char_orange_88
+    21300178: goku_char_orange_89
+    21300180: goku_char_orange_90
+    21300182: goku_char_orange_91
+    21300184: goku_char_orange_92
+    21300186: goku_char_orange_93
+    21300188: goku_char_orange_94
+    21300190: goku_char_orange_95
+    21300192: goku_char_orange_96
+    21300194: goku_char_orange_97
+    21300196: goku_char_orange_98
+    21300198: goku_char_orange_99
+    21300200: goku_char_orange_100
+    21300202: goku_char_orange_101
+    21300204: goku_char_orange_102
+    21300206: goku_char_orange_103
+    21300208: goku_char_orange_104
+    21300210: goku_char_orange_105
+    21300212: goku_char_orange_106
+    21300214: goku_char_orange_107
+    21300216: goku_char_orange_108
+    21300218: goku_char_orange_109
+    21300220: goku_char_orange_110
+    21300222: goku_char_orange_111
+    21300224: goku_char_orange_112
+    21300226: goku_char_orange_113
+    21300228: goku_char_orange_114
+    21300230: goku_char_orange_115
+    21300232: goku_char_orange_116
+    21300234: goku_char_orange_117
+    21300236: goku_char_orange_118
+    21300238: goku_char_orange_119
+    21300240: goku_char_orange_120
+    21300242: goku_char_orange_121
+    21300244: goku_char_orange_122
+    21300246: goku_char_orange_123
+    21300248: goku_char_orange_124
+    21300250: goku_char_orange_125
+    21300252: goku_char_orange_126
+    21300254: goku_char_orange_127
+    21300256: goku_char_orange_128
+    21300258: goku_char_orange_129
+    21300260: goku_char_orange_130
+    21300262: goku_char_orange_131
+    21300264: goku_char_orange_132
+    21300266: goku_char_orange_133
+    21300268: goku_char_orange_134
+    21300270: goku_char_orange_135
+    21300272: goku_char_orange_136
+    21300274: goku_char_orange_137
+    21300276: goku_char_orange_138
+    21300278: goku_char_orange_139
+    21300280: goku_char_orange_140
+    21300282: goku_char_orange_141
+    21300284: goku_char_orange_142
+    21300286: goku_char_orange_143
+    21300288: goku_char_orange_144
+    21300290: goku_char_orange_145
+    21300292: goku_char_orange_146
+    21300294: goku_char_orange_147
+    21300296: goku_char_orange_148
+    21300298: goku_char_orange_149
+    21300300: goku_char_orange_150
+    21300302: goku_char_orange_151
+    21300304: goku_char_orange_152
+    21300306: goku_char_orange_153
+    21300308: goku_char_orange_154
+    21300310: goku_char_orange_155
+    21300312: goku_char_orange_156
+    21300314: goku_char_orange_157
+    21300316: goku_char_orange_158
+    21300318: goku_char_orange_159
+    21300320: goku_char_orange_160
+    21300322: goku_char_orange_161
+    21300324: goku_char_orange_162
+    21300326: goku_char_orange_163
+    21300328: goku_char_orange_164
+    21300330: goku_char_orange_165
+    21300332: goku_char_orange_166
+    21300334: goku_char_orange_167
+    21300336: goku_char_orange_168
+    21300338: goku_char_orange_169
+    21300340: goku_char_orange_170
+    21300342: goku_char_orange_171
+    21300344: goku_char_orange_172
+    21300346: goku_char_orange_173
+    21300348: goku_char_orange_174
+    21300350: goku_char_orange_175
+    21300352: goku_char_orange_176
+    21300354: goku_char_orange_177
+    21300356: goku_char_orange_178
+    21300358: goku_char_orange_179
+    21300360: goku_char_orange_180
+    21300362: goku_char_orange_181
+    21300364: goku_char_orange_182
+    21300366: goku_char_orange_183
+    21300368: goku_char_orange_184
+    21300370: goku_char_orange_185
+    21300372: goku_char_orange_186
+    21300374: goku_char_orange_187
+    21300376: goku_char_orange_188
+    21300378: goku_char_orange_189
+    21300380: goku_char_orange_190
+    21300382: goku_char_orange_191
+    21300384: goku_char_orange_192
+    21300386: goku_char_orange_193
+    21300388: goku_char_orange_194
+    21300390: goku_char_orange_195
+    21300392: goku_char_orange_196
+    21300394: goku_char_orange_197
+    21300396: goku_char_orange_198
+    21300398: goku_char_orange_199
+    21300400: goku_char_orange_200
+    21300402: goku_char_orange_201
+    21300404: goku_char_orange_202
+    21300406: goku_char_orange_203
+    21300408: goku_char_orange_204
+    21300410: goku_char_orange_205
+    21300412: goku_char_orange_206
+    21300414: goku_char_orange_207
+    21300416: goku_char_orange_208
+    21300418: goku_char_orange_209
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goku_char_orange_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1921
+        width: 93
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1921
+        width: 106
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1925
+        width: 101
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_3
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1920
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_4
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1921
+        width: 88
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_5
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1920
+        width: 100
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_6
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1923
+        width: 97
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_7
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1921
+        width: 89
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_8
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1921
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_9
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1925
+        width: 123
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_10
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1928
+        width: 109
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_11
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1929
+        width: 121
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_12
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1929
+        width: 119
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_13
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1928
+        width: 122
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_14
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1932
+        width: 108
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_15
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 1932
+        width: 108
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1799
+        width: 97
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1795
+        width: 109
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1799
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_19
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1799
+        width: 109
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_20
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1801
+        width: 97
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_21
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1795
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1793
+        width: 127
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_23
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1788
+        width: 127
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_24
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1783
+        width: 119
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_25
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1792
+        width: 127
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_26
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1792
+        width: 122
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_27
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1789
+        width: 118
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_28
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1235
+        width: 439
+        height: 643
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_29
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1666
+        width: 93
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_30
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1665
+        width: 82
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_31
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1664
+        width: 86
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_32
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1665
+        width: 128
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_33
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1673
+        width: 97
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_34
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1673
+        width: 109
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_35
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1669
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_36
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1669
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_37
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1674
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_38
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1664
+        width: 91
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_39
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 1665
+        width: 98
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_40
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1665
+        width: 76
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1665
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_42
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1534
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_43
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1534
+        width: 99
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_44
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1537
+        width: 98
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_45
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1537
+        width: 94
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_46
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1537
+        width: 92
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_47
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1537
+        width: 93
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_48
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1537
+        width: 98
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_49
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1537
+        width: 95
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_50
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1534
+        width: 98
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_51
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1537
+        width: 92
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_52
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1537
+        width: 92
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_53
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1540
+        width: 85
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_54
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1409
+        width: 91
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_55
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1409
+        width: 87
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_56
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1285
+        width: 97
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_57
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1409
+        width: 88
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_58
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1409
+        width: 86
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_59
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1409
+        width: 96
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_60
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1409
+        width: 124
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_61
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1404
+        width: 107
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_62
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1404
+        width: 116
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_63
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1411
+        width: 96
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_64
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1411
+        width: 116
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_65
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1411
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_66
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1286
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_67
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1281
+        width: 124
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_68
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1284
+        width: 100
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_69
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1282
+        width: 83
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_70
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1282
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_71
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1280
+        width: 90
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_72
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1281
+        width: 84
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_73
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1280
+        width: 81
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_74
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1281
+        width: 77
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_75
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1281
+        width: 86
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_76
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 1281
+        width: 81
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1159
+        width: 127
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_78
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1158
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_79
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1160
+        width: 121
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_80
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1160
+        width: 120
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_81
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1155
+        width: 127
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_82
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1154
+        width: 124
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_83
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1153
+        width: 112
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_84
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1164
+        width: 111
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_85
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1164
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_86
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1160
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_87
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1167
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_88
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1164
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1028
+        width: 84
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_90
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1025
+        width: 99
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_91
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1025
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_92
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1025
+        width: 97
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_93
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1030
+        width: 97
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_94
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1028
+        width: 80
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_95
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1025
+        width: 99
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_96
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1025
+        width: 91
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_97
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1025
+        width: 96
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_98
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1030
+        width: 97
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_99
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1029
+        width: 97
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_100
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1029
+        width: 108
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_101
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1029
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_102
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1029
+        width: 109
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_103
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1031
+        width: 97
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_104
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 897
+        width: 67
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_105
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 648
+        width: 125
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_106
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 897
+        width: 108
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_107
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 897
+        width: 101
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_108
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 897
+        width: 86
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_109
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 897
+        width: 86
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_110
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 897
+        width: 73
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_111
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 903
+        width: 103
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_112
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 902
+        width: 67
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_113
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 902
+        width: 67
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_114
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 902
+        width: 109
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_115
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 902
+        width: 102
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_116
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 902
+        width: 86
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_117
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 902
+        width: 87
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_118
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 902
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_119
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 648
+        width: 121
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_120
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 769
+        width: 99
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_121
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 781
+        width: 100
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_122
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 770
+        width: 79
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_123
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 769
+        width: 81
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_124
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 776
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_125
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 776
+        width: 96
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_126
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 772
+        width: 76
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_127
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 772
+        width: 78
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_128
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 772
+        width: 77
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_129
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 772
+        width: 113
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_130
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 791
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_131
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 769
+        width: 94
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_132
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 772
+        width: 92
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_133
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 774
+        width: 91
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_134
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 648
+        width: 122
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_135
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 648
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_136
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 659
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_137
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 648
+        width: 125
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_138
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 648
+        width: 122
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_139
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 666
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_140
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 648
+        width: 126
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_141
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 648
+        width: 125
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_142
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 648
+        width: 123
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_143
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 648
+        width: 126
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_144
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 648
+        width: 125
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_145
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 648
+        width: 121
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_146
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 661
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_147
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 648
+        width: 125
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_148
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 648
+        width: 115
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_149
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 648
+        width: 133
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_150
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 648
+        width: 122
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_151
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 658
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_152
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 659
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_153
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 657
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_154
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 524
+        width: 127
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_155
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 512
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_156
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 532
+        width: 124
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_157
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 526
+        width: 72
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_158
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 513
+        width: 90
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_159
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 513
+        width: 90
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_160
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 514
+        width: 93
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_161
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 513
+        width: 84
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_162
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 514
+        width: 91
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_163
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 515
+        width: 90
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_164
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 385
+        width: 22
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_165
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 474
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_166
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 452
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_167
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 437
+        width: 22
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_168
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 418
+        width: 22
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_169
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 389
+        width: 22
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_170
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 389
+        width: 23
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_171
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 418
+        width: 22
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_172
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 447
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_173
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 473
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_174
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 426
+        width: 80
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_175
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 413
+        width: 118
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_176
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 400
+        width: 89
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_177
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 388
+        width: 124
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_178
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 440
+        width: 116
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_179
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 427
+        width: 123
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_180
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 387
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_181
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 300
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_182
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 307
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_183
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 300
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_184
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 309
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_185
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 297
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_186
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 308
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_187
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 295
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_188
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 311
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_189
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 295
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_190
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 308
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_191
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 296
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_192
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 292
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_193
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 304
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_194
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 294
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_195
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 301
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_196
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 295
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_197
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 300
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_198
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 296
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_199
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 300
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_200
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 295
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_201
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 292
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_202
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 129
+        width: 80
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_203
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 129
+        width: 108
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_204
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 129
+        width: 107
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_205
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 129
+        width: 102
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_206
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 129
+        width: 103
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_207
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 128
+        width: 103
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_208
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 128
+        width: 107
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_char_orange_209
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 129
+        width: 107
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
